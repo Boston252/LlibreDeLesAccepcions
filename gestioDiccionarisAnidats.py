@@ -21,4 +21,3 @@ auxiliar.update(entrada)
 diccionari.update({paraula:auxiliar})
 
 print(diccionari)
-diccionari[paraula]["TÈXTIL"] = "Teixit de les xarxes de pescar, fabricat amb torçal de cotó o amb fil d’abacà."
