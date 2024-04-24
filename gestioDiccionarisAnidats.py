@@ -1,3 +1,4 @@
+# Esto es solo un EJEMPLO
 diccionari = {}
 
 print(diccionari)
